@@ -1,0 +1,423 @@
+/* 1400px */
+@media (max-width: 1400px) {
+  .heading {
+    font-size: 80px;
+  }
+  .para {
+    font-size: 32px;
+  }
+  .card-heading {
+    font-size: 38px;
+  }
+  .card-para {
+    font-size: 22px;
+  }
+  .img-5 {
+    left: 19%;
+  }
+  .img-3 {
+    top: 20%;
+  }
+  .header-title {
+    font-size: 130px;
+  }
+  .header-p {
+    font-size: 32px;
+  }
+  .title-wrapper {
+    gap: 149px;
+  }
+  .p-wrapper {
+    font-size: 32px;
+  }
+  .lorem-100 {
+    font-size: 28px;
+  }
+  .Statistics {
+    font-size: 80px;
+  }
+  .faizer-p {
+    font-size: 40px;
+  }
+  .inquery-p {
+    font-size: 32px;
+  }
+  .inquery-title {
+    font-size: 80px;
+  }
+  .h2-wrapper {
+    font-size: 80px;
+  }
+}
+
+/* 1200px */
+@media (max-width: 1200px) {
+  .img-5 {
+    left: 5%;
+  }
+  .img-3 {
+    left: 50px;
+  }
+  .flex {
+    justify-content: space-between;
+  }
+  .title-wrapper {
+    gap: 100px;
+  }
+  .ul-header {
+    gap: 60px;
+  }
+  .faizer-p {
+    font-size: 32px;
+  }
+}
+/* 992px */
+@media (max-width: 992px) {
+  nav {
+    padding: 15px 15px;
+  }
+  .ul-header {
+    gap: 35px;
+    padding-right: 0px;
+  }
+  .header {
+    width: 100%;
+    text-align: center;
+  }
+  .header-title {
+    font-size: 110px;
+  }
+  .header-p {
+    font-size: 28px;
+  }
+  .button-wrapper {
+    padding: 18px 60px;
+  }
+  .card-heading {
+    font-size: 40px;
+  }
+  .card-para {
+    font-size: 22px;
+  }
+  .flex {
+    flex-wrap: wrap;
+    gap: 78px;
+    justify-content: space-around;
+  }
+  .para {
+    font-size: 28px;
+  }
+  .img-3 {
+    left: 30px;
+  }
+  .img-5 {
+    left: 5%;
+  }
+  .title-wrapper {
+    gap: 0px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .para-wrapper {
+    align-items: center;
+  }
+  .p-wrapper {
+    text-align: center;
+    font-size: 28px;
+  }
+  .stat {
+    flex-wrap: wrap;
+    gap: 50px;
+  }
+  .faizer-p {
+    font-size: 28px;
+  }
+  .faizer-name {
+    font-size: 40px;
+  }
+  .inquery-p {
+    font-size: 28px;
+  }
+  .links-container li {
+    font-size: 18px;
+  }
+  .links-container {
+    gap: 20px;
+  }
+  .info-wrapper p {
+    font-size: 16px;
+  }
+}
+/* 768px */
+@media (max-width: 768px) {
+  .para {
+    font-size: 26px;
+  }
+  .flex {
+    flex-wrap: wrap;
+    gap: 78px;
+  }
+  .img-5 {
+    left: 0;
+  }
+  .img-3 {
+    top: 30%;
+    left: 20px;
+  }
+  img-4 {
+    top: 55%;
+  }
+  nav {
+    padding: 10px 15px;
+  }
+
+  .ul-header {
+    gap: 15px;
+    padding-right: 0;
+    font-size: 22px;
+    font-family: "Montserrat";
+  }
+  .header {
+    width: 100%;
+    text-align: center;
+  }
+  .header-title {
+    font-size: 90px;
+  }
+  .header-p {
+    font-size: 26px;
+  }
+  .button-wrapper {
+    padding: 17px 45px;
+  }
+  .title-wrapper {
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    gap: 0;
+  }
+  .para-wrapper {
+    align-items: center;
+  }
+  .p-wrapper {
+    text-align: center;
+    font-size: 26px;
+  }
+  .lorem-100 {
+    font-size: 23px;
+  }
+  .faizer-p {
+    font-size: 26px;
+  }
+  .inquery-p {
+    font-size: 26px;
+  }
+  .stat {
+    flex-wrap: wrap;
+    gap: 68px;
+  }
+  .customer {
+    height: 250px;
+    width: 250px;
+  }
+  .outlet {
+    font-size: 35px;
+  }
+  .abc {
+    font-size: 60px;
+  }
+  .faizer-name {
+    font-size: 35px;
+  }
+  .your-email {
+    width: 550px;
+  }
+  .subscribe-button {
+    right: 32%;
+    bottom: 10px;
+  }
+  .col-40 {
+    width: 100%;
+  }
+  .col-60 {
+    width: 100%;
+  }
+  .row-2000 {
+    flex-direction: column;
+    gap: 100px;
+  }
+  .info-wrapper {
+    align-items: center;
+    padding: 0;
+  }
+  .info-wrapper p {
+    text-align: center;
+    font-size: 20px;
+  }
+  .links-container {
+    gap: 50px;
+  }
+  .links-container li {
+    line-height: 40px;
+    font-size: 18px;
+  }
+  .links-container li:first-of-type {
+    font-size: 28px;
+  }
+  .card-para {
+    font-size: 18px;
+  }
+  .flex {
+    gap: 40px;
+  }
+}
+/* 576px */
+@media (max-width: 576px) {
+  .flex {
+    flex-direction: column;
+    gap: 50px;
+  }
+  .card-container {
+    margin: 0px;
+  }
+  .img-6 {
+    bottom: 25%;
+  }
+  .img-5 {
+    left: 0;
+  }
+  .img-3 {
+    left: 0;
+  }
+  .para-wrapper {
+    align-items: center;
+  }
+  .title-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+  }
+  .p-wrapper {
+    text-align: center;
+  }
+  .stat {
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+  }
+  .faizer-p {
+    font-size: 25px;
+  }
+  .faizer-name {
+    font-size: 36px;
+  }
+  .p-wrapper {
+    font-size: 22px;
+  }
+  .h2-wrapper {
+    font-size: 60px;
+  }
+  .button-wrapper {
+    padding: 17px 45px;
+  }
+  .Statistics {
+    font-size: 60px;
+  }
+  .lorem-100 {
+    font-size: 22px;
+  }
+  .para {
+    font-size: 22px;
+  }
+  .heading {
+    font-size: 60px;
+  }
+  .your-email {
+    width: 414px;
+  }
+  .subscribe-button {
+    right: 24%;
+    bottom: 10px;
+  }
+  .inquery-title {
+    font-size: 60px;
+  }
+  .inquery-p {
+    font-size: 22px;
+  }
+  .col-40 {
+    width: 100%;
+  }
+  .info-wrapper {
+    padding: 0;
+    align-items: center;
+  }
+  .info-wrapper p {
+    text-align: center;
+    font-size: 19px;
+  }
+  .row-2000 {
+    flex-direction: column;
+    gap: 100px;
+  }
+  .links-container {
+    gap: 50px;
+  }
+  .links-container li {
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .col-60 {
+    width: 100%;
+  }
+  .links-container li:first-of-type {
+    font-size: 25px;
+  }
+  .section-6 {
+    padding-bottom: 0;
+  }
+  .header-title {
+    font-size: 78px;
+    margin-bottom: 70px;
+  }
+  .header-p {
+    font-size: 22px;
+  }
+  .header {
+    width: 100%;
+    text-align: center;
+  }
+  .navmenu {
+    display: none;
+  }
+  .bars {
+    display: block;
+  }
+  .checkbox {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    height: 50px;
+    width: 50px;
+  }
+  nav {
+    position: relative;
+  }
+  input {
+  }
+  .checkbox:checked + .navmenu {
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    color: #1111;
+    display: flex;
+  }
+}
